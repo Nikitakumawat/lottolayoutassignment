@@ -922,12 +922,12 @@ footer p {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1201px) {
   .layout {
     position: absolute;
     top: 58%;
     width: 80%;
-    height: 79%;
+    height: 83%;
     flex-shrink: 0;
     border-radius: 20px;
     display: flex;
@@ -943,7 +943,7 @@ footer p {
     position: absolute;
     top: 58%;
     width: 80%;
-    height: 77%;
+    height: 83%;
     flex-shrink: 0;
     border-radius: 20px;
     background: var(
@@ -959,7 +959,7 @@ footer p {
 
   .bottom__container {
     position: absolute;
-    top: 140%;
+    top: 145%;
     width: 80%;
     height: 293px;
     flex-shrink: 0;
@@ -1001,7 +1001,7 @@ footer p {
     justify-content: center;
     margin-top: 20px;
     position: absolute;
-    top: 200%;
+    top: 210%;
   }
   
   footer p {
@@ -1015,10 +1015,10 @@ footer p {
   .hr-line:after {
     content: " ";
     height: 2px;
-    width: 42%;
+    width: 35%;
     display: block;
     position: absolute;
-    top: 21%;
+    top: 26%;
     margin: 2px;
     right: 5px;
     border-radius: 4px;
@@ -1028,10 +1028,10 @@ footer p {
   .hr-lines:after {
     content: " ";
     height: 2px;
-    width: 75%;
+    width: 73%;
     display: block;
     position: absolute;
-    top: 47%;
+    top: 54%;
     margin: 2px;
     right: 5px;
     border-radius: 4px;
