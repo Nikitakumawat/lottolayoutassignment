@@ -927,10 +927,9 @@ footer p {
     position: absolute;
     top: 58%;
     width: 80%;
-    height: 77%;
+    height: 79%;
     flex-shrink: 0;
     border-radius: 20px;
-
     display: flex;
     align-items: center;
     flex-direction: column;
